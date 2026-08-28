@@ -1,0 +1,20 @@
+{
+  "name": "flight-rules",
+  "owner": {
+    "name": "Emaldo"
+  },
+  "plugins": [
+    {
+      "name": "git",
+      "source": "./plugins/git",
+      "description": "Git workflow skills for MR creation and merging",
+      "version": "0.0.1"
+    },
+    {
+      "name": "rust",
+      "source": "./plugins/rust",
+      "description": "Rust development skills for crate scaffolding",
+      "version": "0.0.1"
+    }
+  ]
+}
