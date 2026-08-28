@@ -13,6 +13,11 @@
       "name": "rust",
       "source": "./plugins/rust",
       "description": "Rust development skills for crate scaffolding"
+    },
+    {
+      "name": "meta",
+      "source": "./plugins/meta",
+      "description": "Meta skills for managing plugins and skills"
     }
   ]
 }
