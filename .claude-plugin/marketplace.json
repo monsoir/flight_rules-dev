@@ -7,7 +7,7 @@
     {
       "name": "git",
       "source": "./plugins/git",
-      "description": "Git workflow skills for MR creation and merging"
+      "description": "Git workflow skills for MR creation, merging, and tagging"
     },
     {
       "name": "rust",
