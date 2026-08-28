@@ -6,5 +6,6 @@ disable-model-invocation: true
 ---
 
 合并对话内已知的 Merge Request ，要求：
-* 使用 `glab` 操作
+* 根据 remote 的地址，使用对应的 CLI 工作操作，如 `gh`， `glab`
 * 若对话内没有已知的 MR，则停止操作
+* 合并成功后，同步本地状态，清理本地现场
